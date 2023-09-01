@@ -33,7 +33,7 @@ The goal of this project is to provide users with personalized movie recommendat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/content-based-movie-recommendation.git
+   git clone https://github.com/codearmyforce/Movie_Recommender_System.git
    cd content-based-movie-recommendation
    
 2. Install the required dependencies:
