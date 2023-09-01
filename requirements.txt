@@ -1,0 +1,6 @@
+pip install pandas
+pip install numpy
+pip install requests
+pip install ast
+pip install sklearn
+pip install pickle5
